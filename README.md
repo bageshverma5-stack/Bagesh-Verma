@@ -1,7 +1,6 @@
 # Bagesh-Verma
 My GitHub Profile README'
 
-About Me
 I'm a BCA graduate and aspiring Java Developer
 passionate about building applications using Java
 and Object-Oriented Programming.
