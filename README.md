@@ -4,13 +4,13 @@
 
 I'm a BCA graduate and aspiring Java Developer passionate about building practical applications using Java and Object-Oriented Programming.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 BCA Graduate (2022–2025)
-- 💻 Completed 6-month Java Full Stack Training
-- 🔭 Building Java-based applications
+BCA Graduate (2022–2025)
+Completed 6-month Java Full Stack Training
+Building Java-based applications
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming Language:** Java
 - **Frontend Technologies:** HTML, CSS, JavaScript
@@ -19,7 +19,7 @@ I'm a BCA graduate and aspiring Java Developer passionate about building practic
 - **Technologies:** JDBC
 - **Tools:** Git, GitHub, MySQL Command Line
 
-## 🚀 My Projects
+## My Projects
 
 ### 1. Contact Manager Using Map
 
@@ -33,14 +33,7 @@ A console-based banking application demonstrating Object-Oriented Programming co
 
 **Concepts:** Encapsulation, Inheritance, Abstraction, Polymorphism.
 
-## 🌱 Currently Learning
-
-- Advanced Java
-- JDBC
-- Spring Boot
-- Backend Development
-
-## 📫 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bagesh-verma-b07004314/)
 - **GitHub:** [Visit my GitHub](https://github.com/bageshverma5-stack)
